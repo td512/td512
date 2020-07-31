@@ -42,6 +42,11 @@ I have over 7 years of experience with Linux system administration (mainly Debia
 
 ## Statistics
 ![How good I am at GitHub](https://github-readme-stats.vercel.app/api?username=Keanu73&count_private=true&theme=tokyonight)
+
+<table>
+<tr>
+<td valign="top" width="50%">
+ 
  <!-- waka-box start -->
 📊 Weekly development breakdown
 ```text
@@ -49,3 +54,12 @@ Still Gathering Statistics...
 ```
 <!-- Powered by https://github.com/YouEclipse/waka-box-go . -->
 <!-- waka-box end -->
+</td>
+<td valign="top" width="50%">
+
+<!-- steam-box start -->
+<!-- steam-box end -->
+
+</td>
+</tr>
+</table>
