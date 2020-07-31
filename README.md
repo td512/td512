@@ -23,4 +23,9 @@ Languages that I have some experience in dabbling with are:
 ## Statistics
 ![How good I am at GitHub](https://github-readme-stats.vercel.app/api?username=Keanu73&count_private=true&theme=tokyonight)
  <!-- waka-box start -->
- <!-- waka-box end -->
+📊 Weekly development breakdown
+```text
+Still Gathering Statistics...
+```
+<!-- Powered by https://github.com/YouEclipse/waka-box-go . -->
+<!-- waka-box end -->
