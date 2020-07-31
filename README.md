@@ -4,21 +4,37 @@ Greetings to thee, fellow brethel! I am known by the name of Keanu (believe it o
 ## Specialisations 🐧
 I have over 7 years of experience with Linux system administration (mainly Debian flavoured operating systems, but also Arch Linux), but I also have experience with frontend and backend development.
 
-## Languages 🕹️
-The languages I feel most confident in are:
-* Golang <img src="https://i.imgur.com/9jVHvUH.png" width="24" height="24">
-* Lua <img src="https://i.imgur.com/WI7c4Im.png">
-* Node.js (JavaScript) <img src="https://i.imgur.com/eIfLS7G.png" width="24" height="24">
-* PHP <img src="https://i.imgur.com/5jN7okT.png" width="32" height="17"> <img src="https://i.imgur.com/nWa1CR2.png" width="24" height="24">
-* TypeScript <img src="https://i.imgur.com/WNyHcrk.png" width="24" height="24">
+![](https://img.shields.io/badge/Windows%2010-0078D7?style=flat-square&logo=Windows&labelColor=0078D7)
+[![](https://img.shields.io/badge/IDE-Visual%20Studio%20Code-blue?style=flat-square&logo=Visual-Studio-Code)](https://code.visualstudio.com/)
 
-Languages that I have some experience in dabbling with are:
-* C <img src="https://i.imgur.com/Lj9bd9d.png" width="24" height="24">
-* C# <img src="https://i.imgur.com/TPxWNsO.png" width="24" height="26">
-* C++ <img src="https://i.imgur.com/EWgA1jA.png" width="24" height="27">
-* Java <img src="https://i.imgur.com/DxfosSU.png" width="24" height="32">
-* Python (I dislike the language however) <img src="https://i.imgur.com/JsNPBrd.png" width="24" height="24">
-* Shell scripting (bash)
+## Languages 🕹️
+
+### The languages I feel most confident in are:
+
+[![](https://img.shields.io/badge/-Golang-00ADD8?style=flat-square&logo=go&logoColor=ffffff)](https://golang.org/)
+
+[![](https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=Lua&labelColor=2C2D72&logoColor=ffffff)](https://lua.org)
+
+[![](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&labelColor=339933&logoColor=ffffff)](https://nodejs.org)
+
+[![](https://img.shields.io/badge/PHP-787cb5?style=flat-square&logo=PHP&labelColor=787cb5&logoColor=ffffff)](https://php.net)
+[![](https://img.shields.io/badge/Laravel-f05340?style=flat-square&logo=Laravel&labelColor=f05340&logoColor=ffffff)](https://laravel.com)
+
+[![](https://img.shields.io/badge/TypeScript-0078D7?style=flat-square&logo=TypeScript&labelColor=0078D7)](https://typescriptlang.org)
+
+### Languages that I have some experience in dabbling with are:
+
+![](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&labelColor=A8B9CC&logoColor=ffffff)
+
+![](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&labelColor=00599C&logoColor=ffffff)
+
+[![](https://img.shields.io/badge/CSharp-239120?style=flat-square&logo=C-Sharp&labelColor=239120&logoColor=ffffff)](https://docs.microsoft.com/en-us/dotnet/csharp)
+
+[![](https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&labelColor=007396&logoColor=ffffff)](https://www.oracle.com/uk/java/technologies/javase-downloads.html)
+
+[![](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&labelColor=3776AB&logoColor=ffffff)](https://python.org)
+
+[![](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=GNU-Bash&labelColor=4EAA25&logoColor=ffffff)](https://bash.org)
 
 ## Statistics
 ![How good I am at GitHub](https://github-readme-stats.vercel.app/api?username=Keanu73&count_private=true&theme=tokyonight)
