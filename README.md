@@ -1,10 +1,14 @@
 ## Greetings! 👋
-Greetings to thee, fellow brethel! I am known by the name of Keanu (believe it or not), and I'm a budding young developer who has a deep passion for open-source projects. If you want to contact me for whatever reason, ping me at [keanu@keanu73.net](mailto:keanu@keanu73.net), and you can always leave a cheeky comment on my [website](https://keanu73.net) as many others have done... 🤭
+Greetings to thee, fellow brethel! I am known by the name of Keanu (believe it or not), and I'm a budding young developer who has a deep passion for open-source projects. If you want to contact me for whatever reason, shoot an email to `keanu@keanu73.net`, and you can always leave a cheeky comment on my [website](https://keanu73.net) as many others have done... 🤭
+
+[![](https://img.shields.io/badge/keanu@keanu73.net-0078D4?style=flat-square&logo=Microsoft-Outlook&labelColor=0078D4&logoColor=ffffff)](mailto:keanu@keanu73.net)
 
 ## Specialisations 🐧
 I have over 7 years of experience with Linux system administration (mainly Debian flavoured operating systems, but also Arch Linux), but I also have experience with frontend and backend development.
 
 ![](https://img.shields.io/badge/Windows%2010-0078D7?style=flat-square&logo=Windows&labelColor=0078D7)
+![](https://img.shields.io/badge/Arch%20Linux-1793D1?style=flat-square&logo=Arch-Linux&labelColor=1793D1&logoColor=ffffff)
+![](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&labelColor=E95420&logoColor=ffffff)
 [![](https://img.shields.io/badge/IDE-Visual%20Studio%20Code-blue?style=flat-square&logo=Visual-Studio-Code)](https://code.visualstudio.com/)
 
 ## Languages 🕹️
