@@ -21,4 +21,4 @@ Languages that I have some experience in dabbling with are:
 * Shell scripting (bash)
 
 ## Statistics
-![How good I am at GitHub](https://github-readme-stats.vercel.app/api?username=Keanu73&count_private=true)
+![How good I am at GitHub](https://github-readme-stats.vercel.app/api?username=Keanu73&count_private=true&theme=tokyonight)
