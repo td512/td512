@@ -1,5 +1,5 @@
 ## Greetings! 👋
-Greetings to thee, fellow brethel! I am known by the name of Keanu (believe it or not), and I'm a budding young developer who has a deep passion for open-source projects. If you want to contact me for whatever reason, shoot an email to `keanu@keanu73.net`, and you can always leave a cheeky comment on my [website](https://keanu73.net) as many others have done... 🤭
+Greetings to thee, fellow brethen! I am known by the name of Keanu (believe it or not), and I'm a budding young developer who has a deep passion for open-source projects. If you want to contact me for whatever reason, shoot an email to `keanu@keanu73.net`, and you can always leave a cheeky comment on my [website](https://keanu73.net) as many others have done... 🤭
 
 [![](https://img.shields.io/badge/keanu@keanu73.net-0078D4?style=flat-square&logo=Microsoft-Outlook&labelColor=0078D4&logoColor=ffffff)](mailto:keanu@keanu73.net)
 
