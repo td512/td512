@@ -16,30 +16,20 @@ I have over 7 years of experience with Linux system administration (mainly Debia
 ### The languages I feel most confident in are:
 
 [![](https://img.shields.io/badge/-Golang-00ADD8?style=flat-square&logo=go&logoColor=ffffff)](https://golang.org/)
-
 [![](https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=Lua&labelColor=2C2D72&logoColor=ffffff)](https://lua.org)
-
 [![](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&labelColor=339933&logoColor=ffffff)](https://nodejs.org)
-
 [![](https://img.shields.io/badge/PHP-787cb5?style=flat-square&logo=PHP&labelColor=787cb5&logoColor=ffffff)](https://php.net)
 [![](https://img.shields.io/badge/Laravel-f05340?style=flat-square&logo=Laravel&labelColor=f05340&logoColor=ffffff)](https://laravel.com)
-
 [![](https://img.shields.io/badge/TypeScript-0078D7?style=flat-square&logo=TypeScript&labelColor=0078D7)](https://typescriptlang.org)
 
 ### Languages that I have some experience in dabbling with are:
 
 ![](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&labelColor=A8B9CC&logoColor=ffffff)
-
 ![](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&labelColor=00599C&logoColor=ffffff)
-
 [![](https://img.shields.io/badge/CSharp-239120?style=flat-square&logo=C-Sharp&labelColor=239120&logoColor=ffffff)](https://docs.microsoft.com/en-us/dotnet/csharp)
-
 [![](https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&labelColor=007396&logoColor=ffffff)](https://www.oracle.com/uk/java/technologies/javase-downloads.html)
-
 [![](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&labelColor=3776AB&logoColor=ffffff)](https://python.org)
-
 [![](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=GNU-Bash&labelColor=4EAA25&logoColor=ffffff)](https://bash.org)
-
 ## Statistics
 ![How good I am at GitHub](https://github-readme-stats.vercel.app/api?username=Keanu73&count_private=true&theme=tokyonight)
 
