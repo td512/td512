@@ -52,7 +52,7 @@ Markdown   🕓 0 secs       ▏░░░░░░░░░░░░░░░░
 <!-- steam-box start -->
 🎮 Steam playtime leaderboard
 ```text
-🎮 Team Fortress 2                   🕘 548 hrs 54 mins
+🎮 Team Fortress 2                   🕘 549 hrs 55 mins
 🎮 Blockland                         🕘 448 hrs 53 mins
 🎮 X-Plane 11                        🕘 400 hrs 2 mins
 🎮 Unturned                          🕘 388 hrs 38 mins
