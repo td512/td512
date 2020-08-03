@@ -55,7 +55,7 @@ Markdown   🕓 0 secs       ▏░░░░░░░░░░░░░░░░
 ```text
 🎮 Team Fortress 2                   🕘 553 hrs 43 mins
 🎮 Blockland                         🕘 448 hrs 53 mins
-🎮 X-Plane 11                        🕘 400 hrs 2 mins
+🎮 X-Plane 11                        🕘 400 hrs 32 mins
 🎮 Unturned                          🕘 388 hrs 38 mins
 🔫 Counter-Strike: Global Offensive  🕘 253 hrs 46 mins
 ```
