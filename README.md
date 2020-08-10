@@ -57,7 +57,7 @@ GraphQL 🕓 0 secs       ░░░░░░░░░░░░░░░░░░
 🎮 Team Fortress 2                  🕘 555 hrs 19 mins
 🎮 Blockland                        🕘 448 hrs 53 mins
 🎮 X-Plane 11                       🕘 408 hrs 58 mins
-🎮 Unturned                         🕘 389 hrs 8 mins
+🎮 Unturned                         🕘 389 hrs 21 mins
 🔫 Counter-Strike: Global Offensive 🕘 253 hrs 46 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
