@@ -56,7 +56,7 @@ GraphQL 🕓 0 secs       ░░░░░░░░░░░░░░░░░░
 ```text
 🎮 Team Fortress 2                  🕘 555 hrs 19 mins
 🎮 Blockland                        🕘 448 hrs 53 mins
-🎮 X-Plane 11                       🕘 410 hrs 59 mins
+🎮 X-Plane 11                       🕘 412 hrs 31 mins
 🎮 Unturned                         🕘 389 hrs 21 mins
 🔫 Counter-Strike: Global Offensive 🕘 253 hrs 46 mins
 ```
