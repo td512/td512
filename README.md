@@ -50,11 +50,11 @@ Still Gathering Statistics...
 <!-- steam-box start -->
 🎮 Steam playtime leaderboard
 ```text
-🎮 Team Fortress 2                  🕘 555 hrs 19 mins
+🎮 Team Fortress 2                  🕘 555 hrs 46 mins
 🎮 Blockland                        🕘 449 hrs 36 mins
 🎮 X-Plane 11                       🕘 412 hrs 31 mins
 🎮 Unturned                         🕘 389 hrs 21 mins
-🔫 Counter-Strike: Global Offensive 🕘 253 hrs 46 mins
+🔫 Counter-Strike: Global Offensive 🕘 254 hrs 41 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
