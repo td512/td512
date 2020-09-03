@@ -40,8 +40,8 @@ I have over 7 years of experience with Linux system administration (mainly Debia
  <!-- waka-box start -->
 📊 Weekly development breakdown
 ```text
-Text 🕓 9 mins ████████████████████▊ 98.8%
-HTML 🕓 0 secs ▏░░░░░░░░░░░░░░░░░░░░  1.2%
+INI  🕓 24 mins ████████████████████▉ 99.5%
+HTML 🕓 0 secs  ░░░░░░░░░░░░░░░░░░░░░  0.5%
 ```
 <!-- Powered by https://github.com/YouEclipse/waka-box-go . -->
 <!-- waka-box end -->
