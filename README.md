@@ -52,7 +52,7 @@ INI 🕓 24 mins █████████████████████
 ```text
 🎮 Team Fortress 2                  🕘 561 hrs 37 mins
 🎮 Blockland                        🕘 449 hrs 36 mins
-🎮 X-Plane 11                       🕘 412 hrs 34 mins
+🎮 X-Plane 11                       🕘 412 hrs 38 mins
 🎮 Unturned                         🕘 389 hrs 21 mins
 🔫 Counter-Strike: Global Offensive 🕘 254 hrs 41 mins
 ```
