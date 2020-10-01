@@ -27,13 +27,11 @@ jobs:
         id: go
       - name: Check out repo
         uses: actions/checkout@v2
-        with:
-          ref: 'recent-played-games-option'
       - uses: actions/setup-go@v2
       - name: Clone and run steam-box
         run: |-
           git clone https://github.com/Keanu73/steam-box.git
-          cd steam-box && go build -o steam ./cmd/box/main.go
+          cd steam-box && git checkout recent-played-games-option && go build -o steam ./cmd/box/main.go
           mv ./steam ../ && cd .. && rm -rf steam-box/
 
       - name: Commit and push
