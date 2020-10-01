@@ -28,7 +28,7 @@ jobs:
       - name: Check out repo
         uses: actions/checkout@v2
         with:
-          ref: recent-played-games-option
+          ref: 'recent-played-games-option'
       - uses: actions/setup-go@v2
       - name: Clone and run steam-box
         run: |-
