@@ -1,4 +1,4 @@
-name: Update steam playtime
+name: Update Steam playtime leaderboard
 
 on:
   push:
@@ -7,6 +7,7 @@ on:
     branches: [master]
   schedule:
     - cron: "0 */2 * * *"
+  workflow_dispatch:
 
 jobs:
   build:
