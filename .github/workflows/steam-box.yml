@@ -26,7 +26,7 @@ jobs:
           go-version: ^1.14
         id: go
       - name: Check out repo
-      - uses: actions/checkout@v2
+        uses: actions/checkout@v2
         with:
           ref: recent-played-games-option
       - uses: actions/setup-go@v2
