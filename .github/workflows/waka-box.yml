@@ -34,9 +34,9 @@ jobs:
       - name: Commit and push
         run: |-
           ./waka
-          git config --global user.email "bot@github.com" && git config --global user.name "Waka-Bot"
+          git config --global user.email "actions@github.com" && git config --global user.name "Waka-Bot"
           git diff
-          git add README.md && git commit -m ":memo: Update profile statistics" || exit 0
+          git add README.md && git commit -m ":memo: Update weekly development breakdown" || exit 0
           git pull && git push
           
           
