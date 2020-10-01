@@ -40,5 +40,5 @@ jobs:
           ./steam
           git config --global user.email "actions@github.com" && git config --global user.name "Steam-Bot"
           git diff
-          git add README.md && git commit -m ":memo: update profile" || exit 0
+          git add README.md && git commit -m ":memo: Update Steam playtime leaderboard" || exit 0
           git pull && git push
