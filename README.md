@@ -53,11 +53,16 @@ Text       🕓 2 mins  ▊░░░░░░░░░░░░░░░░░�
 <!-- steam-box start -->
 🎮 Recently played Steam games
 ```text
-🕵️‍♂️ Among Us                       🕘 14 hrs 20 mins
-✈️ X-Plane 11                       🕘 419 hrs 57 mins
-❓ Unknown Game                     🕘 2 hrs 34 mins
-🎮 Dead by Daylight                 🕘 16 hrs 16 mins
-λ² Half-Life 2                      🕘 32 hrs 17 mins
+🕵️‍♂️ Among Us
+	🕘 14 hrs 20 mins
+✈️ X-Plane 11
+	🕘 419 hrs 57 mins
+❓ Unknown Game
+	🕘 2 hrs 34 mins
+🎮 Dead by Daylight
+	🕘 16 hrs 16 mins
+λ² Half-Life 2
+	🕘 32 hrs 17 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
