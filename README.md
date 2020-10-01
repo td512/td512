@@ -51,13 +51,13 @@ Text       🕓 2 mins  ▊░░░░░░░░░░░░░░░░░�
 <td valign="top" width="50%">
 
 <!-- steam-box start -->
-🎮 Steam playtime leaderboard
+🎮 Recently played Steam games
 ```text
-🎮 Team Fortress 2                  🕘 561 hrs 39 mins
-🎮 Blockland                        🕘 449 hrs 36 mins
+🕵️‍♂️ Among Us                       🕘 14 hrs 20 mins
 🎮 X-Plane 11                       🕘 419 hrs 57 mins
-🎮 Unturned                         🕘 389 hrs 21 mins
-🔫 Counter-Strike: Global Offensive 🕘 254 hrs 41 mins
+🎮                                  🕘 2 hrs 34 mins
+🎮 Dead by Daylight                 🕘 16 hrs 16 mins
+**λ²** Half-Life 2                  🕘 32 hrs 17 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
