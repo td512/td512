@@ -30,8 +30,8 @@ jobs:
       - uses: actions/setup-go@v2
       - name: Clone and run steam-box
         run: |-
-          git clone https://github.com/Keanu73/steam-box.git 
-          git switch recent-played-games-option
+          git clone https://github.com/Keanu73/steam-box
+          git checkout recent-played-games-option
           cd steam-box && go build -o steam ./cmd/box/main.go
           mv ./steam ../ && cd .. && rm -rf steam-box/
 
