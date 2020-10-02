@@ -19,7 +19,7 @@ jobs:
     name: Update-steam-playtime
     runs-on: ubuntu-latest
     env:
-      STEAM_OPTION: RECENT
+      STEAM_OPTION: ALLTIME
       MULTILINE: YES
       STEAM_API_KEY: ${{ secrets.STEAM_API_KEY }}
       STEAM_ID: ${{ secrets.STEAM_ID }}
