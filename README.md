@@ -55,15 +55,15 @@ HTML       🕓 3 mins       ▏░░░░░░░░░░░░░░░░
 🎮 Recently played Steam games
 ```text
 🕵️‍♂️ Among Us
-	🕘 15 hrs 8 mins
+						🕘 15 hrs 8 mins
 ✈️ X-Plane 11
-	🕘 419 hrs 57 mins
+						🕘 419 hrs 57 mins
 🎮 Dead by Daylight
-	🕘 16 hrs 16 mins
+						🕘 16 hrs 16 mins
 ❓ Unknown Game
-	🕘 2 hrs 34 mins
+						🕘 2 hrs 34 mins
 λ² Half-Life 2
-	🕘 32 hrs 17 mins
+						🕘 32 hrs 17 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
