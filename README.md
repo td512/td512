@@ -59,7 +59,7 @@ Git        🕓 0 secs        ░░░░░░░░░░░░░░░░�
 🎮 Blockland
 						    🕘 449 hrs 36 mins
 ✈️ X-Plane 11
-						    🕘 423 hrs 48 mins
+						    🕘 425 hrs 9 mins
 🎮 Unturned
 						    🕘 389 hrs 21 mins
 🔫 Counter-Strike: Global Offensive
