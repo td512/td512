@@ -58,7 +58,7 @@ Nginx configuration file 🕓 2 mins  █▋░░░░░░░░░░░░
 🎮 Blockland
 						    🕘 449 hrs 36 mins
 ✈️ X-Plane 11
-						    🕘 426 hrs 35 mins
+						    🕘 427 hrs 44 mins
 🎮 Unturned
 						    🕘 389 hrs 21 mins
 🔫 Counter-Strike: Global Offensive
