@@ -59,7 +59,7 @@ JavaScript               🕓 1 min   ▊░░░░░░░░░░░░░
 🎮 Blockland
 						    🕘 449 hrs 36 mins
 ✈️ X-Plane 11
-						    🕘 428 hrs 49 mins
+						    🕘 430 hrs 42 mins
 🎮 Unturned
 						    🕘 389 hrs 21 mins
 🔫 Counter-Strike: Global Offensive
