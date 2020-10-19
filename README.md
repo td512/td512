@@ -59,7 +59,7 @@ Batchfile 🕓 7 mins        ▎░░░░░░░░░░░░░░░░
 🎮 Blockland
 						    🕘 449 hrs 36 mins
 ✈️ X-Plane 11
-						    🕘 435 hrs 53 mins
+						    🕘 437 hrs 20 mins
 🎮 Unturned
 						    🕘 389 hrs 21 mins
 🔫 Counter-Strike: Global Offensive
