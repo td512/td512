@@ -59,7 +59,7 @@ SQL       🕓 19 mins       ▊░░░░░░░░░░░░░░░░
 🎮 Blockland
 						    🕘 449 hrs 36 mins
 ✈️ X-Plane 11
-						    🕘 437 hrs 50 mins
+						    🕘 438 hrs 31 mins
 🎮 Unturned
 						    🕘 389 hrs 21 mins
 🔫 Counter-Strike: Global Offensive
