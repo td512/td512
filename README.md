@@ -31,7 +31,14 @@ I have over 7 years of experience with Linux system administration (mainly Debia
 [![](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&labelColor=3776AB&logoColor=ffffff)](https://python.org)
 [![](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=GNU-Bash&labelColor=4EAA25&logoColor=ffffff)](https://bash.org)
 ## Statistics
-![How good I am at GitHub](https://github-readme-stats.vercel.app/api?username=Keanu73&count_private=true&show_icons=true&theme=tokyonight)
+<a href="https://github.com/Keanu73/Keanu73">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Keanu73&count_private=true&show_icons=true&theme=tokyonight" />
+</a>
+<a href="https://github.com/Keanu73/Keanu73">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Keanu73&layout=compact&theme=tokyonight&langs_count=8" />
+</a>
+
+<br />
 
 <table>
 <tr>
