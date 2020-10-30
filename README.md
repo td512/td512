@@ -66,7 +66,7 @@ JSON       🕓 7 mins       ▊░░░░░░░░░░░░░░░░
 🎮 Blockland
 						    🕘 449 hrs 36 mins
 ✈️ X-Plane 11
-						    🕘 439 hrs 36 mins
+						    🕘 440 hrs 37 mins
 🎮 Unturned
 						    🕘 389 hrs 21 mins
 🔫 Counter-Strike: Global Offensive
