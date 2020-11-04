@@ -66,7 +66,7 @@ Text       🕓 3 mins       ▍░░░░░░░░░░░░░░░░
 🎮 Blockland
 						    🕘 449 hrs 36 mins
 ✈️ X-Plane 11
-						    🕘 445 hrs 56 mins
+						    🕘 447 hrs 57 mins
 🎮 Unturned
 						    🕘 389 hrs 21 mins
 🔫 Counter-Strike: Global Offensive
