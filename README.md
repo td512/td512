@@ -63,10 +63,10 @@ Docker     🕓 7 mins       ░░░░░░░░░░░░░░░░░
 ```text
 🎮 Team Fortress 2
 						    🕘 561 hrs 39 mins
+✈️ X-Plane 11
+						    🕘 449 hrs 39 mins
 🎮 Blockland
 						    🕘 449 hrs 36 mins
-✈️ X-Plane 11
-						    🕘 449 hrs 31 mins
 🎮 Unturned
 						    🕘 389 hrs 21 mins
 🔫 Counter-Strike: Global Offensive
