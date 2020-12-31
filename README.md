@@ -47,8 +47,9 @@ I have over 7 years of experience with Linux system administration (mainly Debia
  <!-- waka-box start -->
 📊 Weekly development breakdown
 ```text
-TypeScript 🕓 9 mins ████████████████▋░░░░ 79.2%
-JSON       🕓 2 mins ████▎░░░░░░░░░░░░░░░░ 20.8%
+TypeScript 🕓 9 mins ███████████████░░░░░░ 71.9%
+JSON       🕓 2 mins ███▉░░░░░░░░░░░░░░░░░ 18.9%
+Other      🕓 1 min  █▉░░░░░░░░░░░░░░░░░░░  9.2%
 ```
 <!-- Powered by https://github.com/YouEclipse/waka-box-go . -->
 <!-- waka-box end -->
