@@ -64,7 +64,7 @@ CSS        🕓 2 mins  ▊░░░░░░░░░░░░░░░░░�
 🎮 Team Fortress 2
 						    🕘 561 hrs 41 mins
 ✈️ X-Plane 11
-						    🕘 470 hrs 17 mins
+						    🕘 470 hrs 47 mins
 🎮 Blockland
 						    🕘 449 hrs 54 mins
 🎮 Unturned
