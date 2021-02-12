@@ -64,7 +64,7 @@ Git Config 🕓 3 mins       ▌░░░░░░░░░░░░░░░░
 🎮 Team Fortress 2
 						    🕘 562 hrs 5 mins
 ✈️ X-Plane 11
-						    🕘 482 hrs 54 mins
+						    🕘 484 hrs 0 mins
 🎮 Blockland
 						    🕘 449 hrs 54 mins
 🎮 Unturned
