@@ -64,7 +64,7 @@ TypeScript 🕓 39 mins       █░░░░░░░░░░░░░░░�
 🎮 Team Fortress 2
 						    🕘 562 hrs 5 mins
 ✈️ X-Plane 11
-						    🕘 486 hrs 15 mins
+						    🕘 487 hrs 16 mins
 🎮 Blockland
 						    🕘 449 hrs 54 mins
 🎮 Unturned
