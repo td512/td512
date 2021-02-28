@@ -70,7 +70,7 @@ YAML       🕓 0 secs  ░░░░░░░░░░░░░░░░░░�
 🎮 Unturned
 						    🕘 389 hrs 21 mins
 🔫 Counter-Strike: Global Offensive
-						    🕘 258 hrs 40 mins
+						    🕘 260 hrs 11 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
