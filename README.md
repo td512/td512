@@ -4,7 +4,7 @@
 
 Well, you did it, you found me! I'm Theo. My most well known project is the [Humble Trove Downloader](httpshttps://github.com/td512/Humble-Trove-Downloader). If you want to contact me for whatever reason, shoot an email to `<your-name>` AT `theom.nz`, or use the badge below. 
 
-[![](https://img.shields.io/badge/theo@theom.nz-0078D4?style=flat-square&logo=Microsoft-Outlook&labelColor=0078D4&logoColor=ffffff)](mailto:theo@theom.nz?subject=I Was Lazy)
+[![](https://img.shields.io/badge/theo@theom.nz-0078D4?style=flat-square&logo=Microsoft-Outlook&labelColor=0078D4&logoColor=ffffff)](mailto:theo@theom.nz?subject=I+Was+Lazy)
 
 ## Specialisations 🐧
 I have over 7 years of experience with Linux system administration mainly RHEL based, and plenty of experience with backend development.
