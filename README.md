@@ -40,16 +40,16 @@ HTML     🕓 1 min   ▋░░░░░░░░░░░░░░░░░░�
 <!-- steam-box start -->
 🎮 Steam playtime leaderboard
 ```text
-🎮 Team Fortress 2
-						    🕘 562 hrs 5 mins
+🚓 Grand Theft Auto V
+						    🕘 552 hrs 52 mins
+🎮 EVGA Precision X1
+						    🕘 464 hrs 25 mins
+🎮 Euro Truck Simulator 2
+						    🕘 220 hrs 53 mins
 ✈️ X-Plane 11
-						    🕘 489 hrs 36 mins
-🎮 Blockland
-						    🕘 449 hrs 54 mins
-🎮 Unturned
-						    🕘 389 hrs 21 mins
-🔫 Counter-Strike: Global Offensive
-						    🕘 266 hrs 52 mins
+						    🕘 211 hrs 47 mins
+🎮 Grand Theft Auto IV: The Complete Edition
+						    🕘 179 hrs 6 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
