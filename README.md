@@ -26,11 +26,7 @@ I have over 7 years of experience with Linux system administration mainly RHEL b
  <!-- waka-box start -->
 📊 Weekly development breakdown
 ```text
-Go       🕓 36 mins ██████████████▏░░░░░░ 67.4%
-Markdown 🕓 7 mins  ██▊░░░░░░░░░░░░░░░░░░ 13.3%
-TeX      🕓 4 mins  █▉░░░░░░░░░░░░░░░░░░░  9.3%
-TOML     🕓 2 mins  ▉░░░░░░░░░░░░░░░░░░░░  4.5%
-HTML     🕓 1 min   ▋░░░░░░░░░░░░░░░░░░░░  3.5%
+Still Gathering Statistics...
 ```
 <!-- Powered by https://github.com/YouEclipse/waka-box-go . -->
 <!-- waka-box end -->
