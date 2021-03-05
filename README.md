@@ -10,11 +10,11 @@ Well, you did it, you found me! I'm Theo. My most well known project is the [Hum
 I have over 7 years of experience with Linux system administration mainly RHEL based, and plenty of experience with backend development.
 
 ## Statistics
-<a href="https://github.com/Keanu73/Keanu73">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Keanu73&count_private=true&show_icons=true&theme=tokyonight" />
+<a href="https://github.com/td512/td512">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=td512&count_private=true&show_icons=true&theme=tokyonight" />
 </a>
-<a href="https://github.com/Keanu73/Keanu73">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Keanu73&layout=compact&theme=tokyonight&langs_count=8" />
+<a href="https://github.com/td512/td512">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=td512&layout=compact&theme=tokyonight&langs_count=8" />
 </a>
 
 <br />
