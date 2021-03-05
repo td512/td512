@@ -18,6 +18,8 @@ I have over 7 years of experience with Linux system administration mainly RHEL b
 </a>
 
 <br />
+<br />
+<br />
 
 <table>
 <tr>
