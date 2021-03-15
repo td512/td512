@@ -45,7 +45,7 @@ Still Gathering Statistics...
 🎮 Euro Truck Simulator 2
 						    🕘 220 hrs 53 mins
 ✈️ X-Plane 11
-						    🕘 211 hrs 47 mins
+						    🕘 211 hrs 48 mins
 🎮 Grand Theft Auto IV: The Complete Edition
 						    🕘 179 hrs 6 mins
 ```
