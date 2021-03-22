@@ -46,8 +46,8 @@ Still Gathering Statistics...
 						    🕘 220 hrs 53 mins
 ✈️ X-Plane 11
 						    🕘 211 hrs 48 mins
-🎮 Grand Theft Auto IV: The Complete Edition
-						    🕘 179 hrs 6 mins
+🎮 SteamVR
+						    🕘 179 hrs 59 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
