@@ -47,7 +47,7 @@ Still Gathering Statistics...
 ✈️ X-Plane 11
 						    🕘 211 hrs 48 mins
 🎮 SteamVR
-						    🕘 195 hrs 38 mins
+						    🕘 197 hrs 40 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
