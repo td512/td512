@@ -45,7 +45,7 @@ Still Gathering Statistics...
 🎮 Euro Truck Simulator 2
 						    🕘 220 hrs 53 mins
 🎮 SteamVR
-						    🕘 213 hrs 55 mins
+						    🕘 215 hrs 56 mins
 ✈️ X-Plane 11
 						    🕘 211 hrs 48 mins
 ```
