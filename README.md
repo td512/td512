@@ -43,7 +43,7 @@ Still Gathering Statistics...
 🎮 EVGA Precision X1
 						    🕘 464 hrs 25 mins
 🎮 SteamVR
-						    🕘 353 hrs 48 mins
+						    🕘 355 hrs 49 mins
 🎮 Euro Truck Simulator 2
 						    🕘 220 hrs 53 mins
 ✈️ X-Plane 11
