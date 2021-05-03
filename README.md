@@ -41,7 +41,7 @@ Still Gathering Statistics...
 🚓 Grand Theft Auto V
 						    🕘 552 hrs 52 mins
 🎮 SteamVR
-						    🕘 479 hrs 35 mins
+						    🕘 481 hrs 37 mins
 🎮 EVGA Precision X1
 						    🕘 464 hrs 25 mins
 🎮 Euro Truck Simulator 2
