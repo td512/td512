@@ -19,38 +19,4 @@ I have over 7 years of experience with Linux system administration mainly RHEL b
 <br />
 <br />
 
-<table>
-<tr>
-<td valign="top" width="50%">
- 
- <!-- waka-box start -->
-📊 Weekly development breakdown
-```text
-Still Gathering Statistics...
-```
-<!-- Powered by https://github.com/YouEclipse/waka-box-go . -->
-<!-- waka-box end -->
-</td>
-<td valign="top" width="50%">
-
-<!-- steam-box start -->
-🎮 Steam playtime leaderboard
-```text
-🚓 Grand Theft Auto V
-						    🕘 552 hrs 52 mins
-🎮 SteamVR
-						    🕘 510 hrs 21 mins
-🎮 EVGA Precision X1
-						    🕘 464 hrs 25 mins
-🎮 Euro Truck Simulator 2
-						    🕘 220 hrs 53 mins
-✈️ X-Plane 11
-						    🕘 211 hrs 48 mins
-```
-<!-- Powered by https://github.com/YouEclipse/steam-box . -->
-<!-- steam-box end -->
-
-</td>
-</tr>
-</table>
 <img src="https://visitor-badge.laobi.icu/badge?page_id=td512.td512" alt="visitor badge"/>       
