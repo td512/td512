@@ -2,9 +2,7 @@
 
 ![](https://github.com/td512/td512/blob/master/icons/header_.png)
 
-Well, you did it, you found me! I'm Theo. My most well known project is the ~~[Humble Trove Downloader](https://github.com/td512/Humble-Trove-Downloader)~~ Well, this is awkward. [re3](https://github.com/td512/re3) is now my most well known project, and I didn't even create it. If you want to contact me for whatever reason, shoot an email to `<your-name>` AT `theom.nz`, or use the badge below. 
-
-[![](https://img.shields.io/badge/theo@theom.nz-0078D4?style=flat-square&logo=Microsoft-Outlook&labelColor=0078D4&logoColor=ffffff)](mailto:theo@theom.nz?subject=I+Was+Lazy)
+Well, you did it, you found me! I'm Theo. My most well known project is the ~~[Humble Trove Downloader](https://github.com/td512/Humble-Trove-Downloader)~~ Well, this is awkward. [re3](https://github.com/td512/re3) is now my most well known project, and I didn't even create it. If you want to contact me for whatever reason, shoot an email to `<your-name>` AT `theom.nz`.
 
 ## Specialisations 🐧
 I have over 7 years of experience with Linux system administration mainly RHEL based, and plenty of experience with backend development.
