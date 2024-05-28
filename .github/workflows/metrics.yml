@@ -40,7 +40,7 @@ jobs:
           
           plugin_lines: yes
           
-          plugin_notable: yes
+          plugin_notable: no
 
           plugin_steam: yes
           plugin_steam_token: ${{ secrets.STEAM_API_KEY }}
@@ -49,7 +49,6 @@ jobs:
           plugin_screenshot: yes
           plugin_screenshot_title: theom.nz
           plugin_screenshot_url: https://theom.nz
-          plugin_screenshot_viewport: '{ "height": 1280, "width": 1280 }'
           
           plugin_skyline: no
           plugin_skyline_frames: 60
