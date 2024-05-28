@@ -46,9 +46,7 @@ jobs:
           plugin_steam_token: ${{ secrets.STEAM_API_KEY }}
           plugin_steam_user: ${{ secrets.STEAM_id }}
           
-          plugin_screenshot: yes
-          plugin_screenshot_title: theom.nz
-          plugin_screenshot_url: https://theom.nz
+          plugin_screenshot: no
           
           plugin_skyline: no
           plugin_skyline_frames: 60
