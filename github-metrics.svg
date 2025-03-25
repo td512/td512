@@ -171,7 +171,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path xmlns="http://www.w3.org/2000/svg" fill-rule="evenodd" d="M2.5 3.5c0-.133.058-.318.282-.55.227-.237.592-.484 1.1-.708C4.899 1.795 6.354 1.5 8 1.5c1.647 0 3.102.295 4.117.742.51.224.874.47 1.101.707.224.233.282.418.282.551 0 .133-.058.318-.282.55-.227.237-.592.484-1.1.708C11.101 5.205 9.646 5.5 8 5.5c-1.647 0-3.102-.295-4.117-.742-.51-.224-.874-.47-1.101-.707-.224-.233-.282-.418-.282-.551zM1 3.5c0-.626.292-1.165.7-1.59.406-.422.956-.767 1.579-1.041C4.525.32 6.195 0 8 0c1.805 0 3.475.32 4.722.869.622.274 1.172.62 1.578 1.04.408.426.7.965.7 1.591v9c0 .626-.292 1.165-.7 1.59-.406.422-.956.767-1.579 1.041C11.476 15.68 9.806 16 8 16c-1.805 0-3.475-.32-4.721-.869-.623-.274-1.173-.62-1.579-1.04-.408-.426-.7-.965-.7-1.591v-9zM2.5 8V5.724c.241.15.503.286.779.407C4.525 6.68 6.195 7 8 7c1.805 0 3.475-.32 4.722-.869.275-.121.537-.257.778-.407V8c0 .133-.058.318-.282.55-.227.237-.592.484-1.1.708C11.101 9.705 9.646 10 8 10c-1.647 0-3.102-.295-4.117-.742-.51-.224-.874-.47-1.101-.707C2.558 8.318 2.5 8.133 2.5 8zm0 2.225V12.5c0 .133.058.318.282.55.227.237.592.484 1.1.708 1.016.447 2.471.742 4.118.742 1.647 0 3.102-.295 4.117-.742.51-.224.874-.47 1.101-.707.224-.233.282-.418.282-.551v-2.275c-.241.15-.503.285-.778.406-1.247.549-2.917.869-4.722.869-1.805 0-3.475-.32-4.721-.869a6.236 6.236 0 01-.779-.406z"/>
                                     </svg>
-                                    963 MB used
+                                    964 MB used
                                 </div>
                                 <div class="field ">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -792,7 +792,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 815k out of 229m repositories</span>
+                                    <span class="gh">ranked 816k out of 234m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 39 stars</div>
                             </div>
@@ -906,7 +906,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path d="m.427 1.927 1.215 1.215a8.002 8.002 0 1 1-1.6 5.685.75.75 0 1 1 1.493-.154 6.5 6.5 0 1 0 1.18-4.458l1.358 1.358A.25.25 0 0 1 3.896 6H.25A.25.25 0 0 1 0 5.75V2.104a.25.25 0 0 1 .427-.177ZM7.75 4a.75.75 0 0 1 .75.75v2.992l2.028.812a.75.75 0 0 1-.557 1.392l-2.5-1A.751.751 0 0 1 7 8.25v-3.5A.75.75 0 0 1 7.75 4Z"/>
                             </svg>
-                            3.74k hours played
+                            3.75k hours played
                         </div>
                     </section>
                 </div>
@@ -1010,7 +1010,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Zm7-3.25v2.992l2.028.812a.75.75 0 0 1-.557 1.392l-2.5-1A.751.751 0 0 1 7 8.25v-3.5a.75.75 0 0 1 1.5 0Z"/>
                                         </svg>
-                                        4 hours played
+                                        8 hours played
                                     </div>
                                 </div>
                                 <div class="infos">
@@ -1027,32 +1027,32 @@
                                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                                 <path d="M3.217 6.962A3.75 3.75 0 0 1 0 3.25v-.5C0 1.784.784 1 1.75 1h1.356c.228-.585.796-1 1.462-1h6.864c.647 0 1.227.397 1.462 1h1.356c.966 0 1.75.784 1.75 1.75v.5a3.75 3.75 0 0 1-3.217 3.712 5.014 5.014 0 0 1-2.771 3.117l.144 1.446c.005.05.03.12.114.204.086.087.217.17.373.227.283.103.618.274.89.568.285.31.467.723.467 1.226v.75h1.25a.75.75 0 0 1 0 1.5H2.75a.75.75 0 0 1 0-1.5H4v-.75c0-.503.182-.916.468-1.226.27-.294.606-.465.889-.568.139-.048.266-.126.373-.227.084-.085.109-.153.114-.204l.144-1.446a5.015 5.015 0 0 1-2.77-3.117ZM4.5 1.568V5.5a3.5 3.5 0 1 0 7 0V1.568a.068.068 0 0 0-.068-.068H4.568a.068.068 0 0 0-.068.068Zm2.957 8.902-.12 1.204c-.093.925-.858 1.47-1.467 1.691a.766.766 0 0 0-.3.176c-.037.04-.07.093-.07.21v.75h5v-.75c0-.117-.033-.17-.07-.21a.766.766 0 0 0-.3-.176c-.609-.221-1.374-.766-1.466-1.69l-.12-1.204a5.064 5.064 0 0 1-1.087 0ZM13 2.5v2.872a2.25 2.25 0 0 0 1.5-2.122v-.5a.25.25 0 0 0-.25-.25H13Zm-10 0H1.75a.25.25 0 0 0-.25.25v.5c0 .98.626 1.813 1.5 2.122Z"/>
                                             </svg>
-                                            4 / 11 achievements unlocked
+                                            6 / 11 achievements unlocked
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQABAAIDAAAAAAAAAAAAAAAABQEHAwYI/8QAJRAAAQQBAwQDAQEAAAAAAAAAAQIDBBEFABIhBhMxQSJhcTNR/8QAGAEAAgMAAAAAAAAAAAAAAAAAAgMEBQb/xAAbEQEAAwEAAwAAAAAAAAAAAAABAAIDEhEhIv/aAAwDAQACEQMRAD8Azwkl0+vsnS7Gxv4KN8WDoKBICWBzzZ1Mich1pxtt1PdohNK5vWdarKxI6606/FXIZiy1w0XvkNsKU2P1QFaGlgJ2rbUFJULBGrGYi5qdk8PmcFN7PTDTLSuHtrbDaBTyFt+zYV6P6K1WmUksOzZjsNPbhOSHVx01W1sqJSPrjT9MDM8kZbPkg2EkR38pAYnO9qE7JbbfXdbWyoBRv1xq2ccMjO6vn4TqDBxmOlGO6LVGDLTDaf5rQ8KNmhzfs+K1zszMoFKxY+9OJzk+Tj0Q5OQmuwUVsjOSFKbTXj4k1qTn8Q6vM27JZeJChz8Rg58+RDdlla1uHtthtO4BCQFHdu3WVGgQkcaAlzAGav8AytDSJYT8k+Ko6PfmlZ86Cw2YL7n/2Q==" alt="" />
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAABQYEBwgD/8QALBAAAgEDBAEBBgcAAAAAAAAAAQIDBAURAAYSITETByJBQmFxI0NRU4Ghwf/EABcBAQEBAQAAAAAAAAAAAAAAAAAFAwT/xAAbEQACAgMBAAAAAAAAAAAAAAABAgADBBEhEv/aAAwDAQACEQMRAD8A70SmU/6dF4OMfuMc9ZGh+1qKe93KktlGSstQx5uPy0HbN/A/sjTde9s2315ZbbVy0NG05poJZZOUQZF/Edick5I4qoOWIOOtQlx2cehJ4rLDYgCpaNsLy4gjJ60JrU9NgVbIIzp3pNrWqG6UxuNfXVdJnjLFPA1KeDdLMvglAxAP6ZBPXlM3Rb57Beau11bFjC2YpP3I27Vvvjz9QdGx3rHowayo2YrUVynp5Fmo55aeoXPCWJyrKcY6I1bOytxWOXb6vaxDZr/aYPUkSWUiOrjXJbk3zBsnsjKkjHQ1n2CtK9H76nwVCOOTgfTPeuqsms8mikrNAe0vf+3q6xm3QwGvr5oVdeDcRSs6/GQfMA3YGc9g6py4XGWflLV1EtRUNgNJK5djjodnQOaqWMckAx8QNQJ64ufOljNYewzFz2f/2Q==" alt="" />
                                         <div>
                                             <div class="name">
-                                                <div>The Long Arm of the Law</div>
+                                                <div>Dodgy Dealing</div>
                                                 <div class="unlocked">25 Mar 2025</div>
                                             </div>
-                                            <div class="description">Get arrested.</div>
+                                            <div class="description">Recruit your first dealer.</div>
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAABQYIBAP/xAAmEAACAgIBAwQDAQEAAAAAAAABAgMEBREAEiExE0FRYQYHIoGi/8QAFwEBAQEBAAAAAAAAAAAAAAAAAAUDBP/EABoRAAMBAQEBAAAAAAAAAAAAAAABAgMSExH/2gAMAwEAAhEDEQA/AO9JTKfb7J4VheKEdLuutbBJ9uBMexsCGssscRnf0vUkJCqT2BJHgb0N+3GfDYCW3k8pj7FBocrUrR3ErMuv7jk/tEPhkcHtrtsj45CjB6E5Q6MFieB29Pr6exJOux+t/wC8G3V6CGRgwI3xkz2Cnp5D8ewtWtJavLRew0HRvrlkkJAf2CjQ2T20uvfihaDVJJqzyxS+g7RCSI7RyPOifbe+LweYqHIBhtho2U6KsNEb5S/6pyM2d/EcfkMlVZbsKtWSxImjMgI06nzo6G/kqeSHDd0Crdxw5Sz2RjiVUyeQjjVQqItqQBQPAA32HOzF+TbNs3wyl/2hlL2FwWWu4+gQ7xR1jbRNuoYnbkjuFUf9N9cnWxaVK4RT2GtcxXM9kXiZXyeQkjZSro1pyCD8jfccBz3S3bfjwPjjV+j+i32z/9k=" alt="" />
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAABQYHBAP/xAApEAABAwQBBAEDBQAAAAAAAAABAgMEAAURIQYSEyIxQSQlUVJhcbHB/8QAGAEAAgMAAAAAAAAAAAAAAAAAAAUBAwT/xAAeEQEAAgICAwEAAAAAAAAAAAABAAIREgMiEyFBUf/aAAwDAQACEQMRAD8A7wkl1X+mizSm2B0uLGMZBOqBQpIbj9WfWc0z252PaLFJn32xSHHZyPtklYSUA9ORgZyn9WcbAx/KCnE3fwi4pszG+6y6OlDicY2Ruhc1PbUClWQRTLy25Wa8WS0T7QhDV7Sj6yNEZ0lsJypSwBoAjR/elCQ/lOSQQfRFF+LxuM5IWpqxfRLK2VoSR5D0fmqjyy6o5nw1y8sXNmCxaWhi0gDqW6EpyT5A42QnR0D+cVCmJpTo/wB1vjvtqPcUhPV8EjJrZToJ8ZZV1yS82yE3wTjtxuzXJbfLamQ0ExiyFlxZT49HmCclRGx62fVR5yV24iEFWwBQZ55ttXcQhOfk43WKRNKz7ov3wBgJNnb0T//Z" alt="" />
                                         <div>
                                             <div class="name">
-                                                <div>Welcome to Hyland Point</div>
+                                                <div>Upstanding Citizen</div>
                                                 <div class="unlocked">25 Mar 2025</div>
                                             </div>
-                                            <div class="description">Encounter an unexpected setback.</div>
+                                            <div class="description">Dispose of 500 pieces of trash at the Cash for Trash machines.</div>
                                         </div>
                                     </div>
                                     <div class="achievement">
                                         <div>
-                                            <div class="description ellipsis">+2 others...</div>
+                                            <div class="description ellipsis">+4 others...</div>
                                         </div>
                                     </div>
                                 </div>
@@ -1063,7 +1063,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 25 Mar 2025, 17:25:37 (timezone Pacific/Auckland) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 25 Mar 2025, 21:27:03 (timezone Pacific/Auckland) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
