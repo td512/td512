@@ -584,15 +584,15 @@
                     </h2>
                     <div class="medias largeable-flex-wrap">
                         <div class="media largeable-width-half">
-                            <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCABAAEADASIAAhEBAxEB/8QAGwAAAgIDAQAAAAAAAAAAAAAABQYBBAIHCAP/xAAtEAABAwMDAgUEAgMAAAAAAAABAgMEAAURBhIhBzETIkFRgQhCYXEVkTJSof/EABkBAQEBAQEBAAAAAAAAAAAAAAIBAwQABf/EACARAAICAgICAwAAAAAAAAAAAAABAhESQQMhMVETIoH/2gAMAwEAAhEDEQA/AIWtJcUQR2qApDu1BPrSjbb0HUZKs80UTN2uJWK+o3s44woOT4iFFAbcHl5xVdMJtAG1W5XcgUKmXkISAVg85OPt/dTAN2nW2ZdUw3U2qKnc5Jx5SPxQlL2JR9BphhveEk+X2oyxtCCB2T2FK0GY87DTNaaUqGvgOegq/FlLbHKsg87qSkRwLi0KS4F/bnv7VfaZcW2HG+U+9K10uS0o3hWEHjFUDrByM6gpOG+2ylktgfGzW1nnIQkrdV5U+gpkTcEvQFSIyshvsT+6Xek1zs9t1za39Stl23IdBKs+RH5UPUV07ddKdNOqkx5en7owq4pQkFENZQhIHbKQAK5ny10dON+Be17oWz2PphHnxFKRcJLaXCpxWdxIBwKZp01l76cLm42yhgqiFsIAA3KGKY+p2grjqXSVrtdqnMR3IIAUXEE+IAkAAf1S5cNG3u3dCZtiRGcuF2SVqbba4K8+grDJNK3sVdgLpzsV9MVxeS0nxUJdwVDJByn1oNa9Py5/TdWqWpDbbEdJ8RlQyTtwDz81d0G87B+mW9Q5ja2JbSnkqQsc53Dj/lYWe+uW36cnmY1vfkoklxtbySNrPIO5X44p5NXXslX5EySsvxwrAwpIUKSb05tVsHfNFTeNsVAz9gHH6pcuD3jL359a3dhTFmEyVHZwR7EUUQl2KypcJ96I5xlUdZbJ+RQ1h1JdBSCKLsEKRtJBzXo01RGdEdQdcXm2dNdDT7PL8KWqQWnFuebICfu96YLL1pkxOl9q1LfYSpT8mY5FUhjCchHrWl7/AHUzunGnIjxCnI0xaiodtuOBVa6zgekenIG8Btq5vOKSO+DWPxpr9Hl2dHI15oTVGj3H7o8xb7U+SHN525V6jIHegC7VotXTSfp7SWqYrNvWVPLdeUpYRuPv7Vzym7oGh/4Rbbao6XVuNnaMgn3r2s94j2/p1PtykpSuSChK8cnnsKi42vDLlYfvfTC7xNjVhuEbUb5QCGYY2nGODzWub3FuNqlGLdoi4cgf5NLPKaqpnS2Akx585lYAG9p4pP8AYodMmPvOFcl919z/AGcUVKPya1+2w9FJDu096Ix520UEzWW5QoRkJxGk3tf8czDySlpZcHzUvXcuW5mHnyNLLnyaVy4rbio8QgYB4pZrZMWHDKJ3b1Yx2FQ7IWqMhpShsQSqg3inGDk4qfHPOcnNVzWiYstPSfQVTU4VKrBSsmoBIVWT5BKJ/9k=" alt="" />
+                            <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCABAAEADASIAAhEBAxEB/8QAHAAAAQQDAQAAAAAAAAAAAAAACAMEBgcBAgUJ/8QALxAAAQMCBQMDAgYDAAAAAAAAAQIDBAARBQYHEiETMUEIIjJRsRQVU2GBkSNxwf/EABgBAAMBAQAAAAAAAAAAAAAAAAECAwQA/8QAIREAAwEAAQMFAQAAAAAAAAAAAAECAxETITEEBRIiQVH/2gAMAwEAAhEDEQA/ABxwLDZmMYmzCw1BckSDsSkVPDpDnBNg5hT6leLCubon7dT8CTZQUl8G38UdD6d4QslW+5sAaVsf4K7ARzJkXMOXoK5uIwHWG+xUocCoW66jdf5KI8USvqBzik4rLyoWFpHSSveo35VQzODpuKRwUXIvXJltMlMSb9QbUqSOQe30qw8I0wzTi2FInwsNeXDWLoUB8jVa7LJCudt+/wBaNTTbUGNH0wy6lMRwiY+qIQD8No+Rp5XYzA8q0nzh0SU4S+m/FyKjOa8t4rluQhnFmS0VgdxajskEuNI6ZXYi/ehn9UBvjUYbSbAfalnyMiEaIDdqpgBP64+1HY6LHgeTQKaHgnVTL9v1/wDlHu2yD8vqaDQq5iwYPU5kyU/OOZ4ybNBAQ+bfFI80MTp72Nxe969BNcWmV6X4+iQpKErjkc+Oa8+1+3cgHcm/BrpRfS3USOFRVNwG5ClgtrUU2onvTfDmYhkuCiXHCsNjyluIXt7qPcXoXGFXKG3VHpbuRej20Pcw1zT2CMGW2plB5A8qtyKtK7GclTrKQEhIsnwKFv1TICcwR+bcD7UWTjYJueL0KXqvQE5gj/6H2qS8hIDoc4hGquBLcISjrjcT2AtRZ561myplZiQkTG5eINg7Y7auSaBBp91o72Xi06OUlBsr+6buOLeX1H1rcUT7lKNz/dE6m0+Sys/6uYznF6aJJLcR1OxLQ4AH71WXBuU+OawolPAPFbNi6rW+XFcO27SSMobU5wgbj+1ETiOP4hpzozldeAym25q5i3HApN+CL81UEaI1g2Jw+u+0Yzu0rUR2vUq1rkgM4bFjOh2HsSpG3sCRWjJc5ti756Ya9Ky+sh6+Zax2MwnHF/lktKQlZdVwtXki3iqy9UmIwcUxmHIwqQiVHUke9B47UPd7Ek/xTpD7rgIdeWuw9oUom1Z/wH1lGjlii/n6025FO9gKCKTDIIrgqlaEO9qdwWw7JQgm1zSfR43DsKWb/wAbqFp7igymFJUuSeS4kFmG0mcC4XAAOe1cbN+KsyIETD46FAMqvuUbm1qaTMYXJDQcG3bwm9c6e9+IQg3BUDzaqY2+m0avd9c/Ub9SP4jmqFiKWZsTWC1upRtISKRd0YW3nPLR/9k=" alt="" />
                             <div class="about">
-                                <div class="name">Dead by Daylight</div>
+                                <div class="name">HITMAN World of Assassination</div>
                                 <div class="infos">
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path fill-rule="evenodd" d="M2.5 7.775V2.75a.25.25 0 01.25-.25h5.025a.25.25 0 01.177.073l6.25 6.25a.25.25 0 010 .354l-5.025 5.025a.25.25 0 01-.354 0l-6.25-6.25a.25.25 0 01-.073-.177zm-1.5 0V2.75C1 1.784 1.784 1 2.75 1h5.025c.464 0 .91.184 1.238.513l6.25 6.25a1.75 1.75 0 010 2.474l-5.026 5.026a1.75 1.75 0 01-2.474 0l-6.25-6.25A1.75 1.75 0 011 7.775zM6 5a1 1 0 100 2 1 1 0 000-2z"/>
                                         </svg>
-                                        Action
+                                        Action, Adventure
                                     </div>
                                 </div>
                                 <div class="infos">
@@ -600,7 +600,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Zm7-3.25v2.992l2.028.812a.75.75 0 0 1-.557 1.392l-2.5-1A.751.751 0 0 1 7 8.25v-3.5a.75.75 0 0 1 1.5 0Z"/>
                                         </svg>
-                                        180 hours played
+                                        228 hours played
                                     </div>
                                 </div>
                                 <div class="infos">
@@ -608,7 +608,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M4.75 0a.75.75 0 0 1 .75.75V2h5V.75a.75.75 0 0 1 1.5 0V2h1.25c.966 0 1.75.784 1.75 1.75v10.5A1.75 1.75 0 0 1 13.25 16H2.75A1.75 1.75 0 0 1 1 14.25V3.75C1 2.784 1.784 2 2.75 2H4V.75A.75.75 0 0 1 4.75 0ZM2.5 7.5v6.75c0 .138.112.25.25.25h10.5a.25.25 0 0 0 .25-.25V7.5Zm10.75-4H2.75a.25.25 0 0 0-.25.25V6h11V3.75a.25.25 0 0 0-.25-.25Z"/>
                                         </svg>
-                                        Last played on 19 Jul 2025
+                                        Last played on 22 Jul 2025
                                     </div>
                                 </div>
                                 <div class="achievements">
@@ -617,32 +617,32 @@
                                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                                 <path d="M3.217 6.962A3.75 3.75 0 0 1 0 3.25v-.5C0 1.784.784 1 1.75 1h1.356c.228-.585.796-1 1.462-1h6.864c.647 0 1.227.397 1.462 1h1.356c.966 0 1.75.784 1.75 1.75v.5a3.75 3.75 0 0 1-3.217 3.712 5.014 5.014 0 0 1-2.771 3.117l.144 1.446c.005.05.03.12.114.204.086.087.217.17.373.227.283.103.618.274.89.568.285.31.467.723.467 1.226v.75h1.25a.75.75 0 0 1 0 1.5H2.75a.75.75 0 0 1 0-1.5H4v-.75c0-.503.182-.916.468-1.226.27-.294.606-.465.889-.568.139-.048.266-.126.373-.227.084-.085.109-.153.114-.204l.144-1.446a5.015 5.015 0 0 1-2.77-3.117ZM4.5 1.568V5.5a3.5 3.5 0 1 0 7 0V1.568a.068.068 0 0 0-.068-.068H4.568a.068.068 0 0 0-.068.068Zm2.957 8.902-.12 1.204c-.093.925-.858 1.47-1.467 1.691a.766.766 0 0 0-.3.176c-.037.04-.07.093-.07.21v.75h5v-.75c0-.117-.033-.17-.07-.21a.766.766 0 0 0-.3-.176c-.609-.221-1.374-.766-1.466-1.69l-.12-1.204a5.064 5.064 0 0 1-1.087 0ZM13 2.5v2.872a2.25 2.25 0 0 0 1.5-2.122v-.5a.25.25 0 0 0-.25-.25H13Zm-10 0H1.75a.25.25 0 0 0-.25.25v.5c0 .98.626 1.813 1.5 2.122Z"/>
                                             </svg>
-                                            59 / 279 achievements unlocked
+                                            14 / 83 achievements unlocked
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAABAAMBAAAAAAAAAAAAAAAABwUGCAT/xAAqEAACAgIBBAEEAQUBAAAAAAABAgMEBRESAAYHITETMkFhFRRCUXGhgf/EABcBAAMBAAAAAAAAAAAAAAAAAAABAwL/xAAYEQEAAwEAAAAAAAAAAAAAAAABAAIRIf/aAAwDAQACEQMRAD8ADvGnZdPuqtmrmSyUlGri44nYRxB3mLsVVFBIGyR/589WWLxLBdRrEORNKrvihsAszH9BRs/70B1JeHcZDH2rXE7wTR57KxQOqOeUKw8vR0fuP1CQPwOJPyB0ydsS1MhB21ZzAuPDFJelhhrS8CjCdFDfcDxRdsdfgfB+DNXclAM1gLe8TJjhFNNkXuVXYIWpptl9eyVYAj/PsAfsdQHknsSHs+vjJ4MmL8GQjE8Egj+nyj2w2VPsMCpBH/etL5axVpS9w/x8Ntact7HGarbk+oxLyTK/9xOnGmGzvRH6HQp5nqkdqYpYOc8OOu2aUkyp6jPMsiE/sFiD+ff56BdyCGbO7xp3Ficp2HQ7XWv/AB+bpTyTVb5AKSWXcMhY72npFT4IPr411dLGRmrWsbDcq1sVlaE1iRql6cRpOJWDMVZk4cdga4tsdZtwWWGK+o6ozTFlZWVtaKnY/wC9LXa/l+jfq2aHfdVrlOS1/UwoV5RROfbfaOYXY3xU6Oz8b2EllZoagRApZKxIcoMZWiy+Tu2q9gpSlEkVMw8uHJwgjABbfttnX6PR75XzGBo+O6/b2KyVi/l7F9bdyxGpEEgCEMoJ+4cuJHr8b376i+4fL96xYv1sXM8GJmjatFXhrpBHHE3yEQEhWI9FiSSCffR5m8tHkIY0SNlKtvba+NdKpYTkLNWr2f/Z" alt="" />
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQABAQADAQAAAAAAAAAAAAAABQQAAgMG/8QAMRAAAQQBAwICBgsAAAAAAAAAAQIDBAURAAYxEiETIhQVQVFSgSQlNDZWYXSRlLTS/8QAGQEAAQUAAAAAAAAAAAAAAAAAAQADBQYH/8QAJBEAAgEEAgIBBQAAAAAAAAAAAQIRAAMSITFRBEGREyIyscH/2gAMAwEAAhEDEQA/ABgKupoKh+RUNWEmch15a3n3EBAS4pASkII+HOTnnU/rqo/C0H+VI/3rNw/dva36V7+w5rjtPcT23Z63kRo8uM8jw34shAU26nIIB92CAQfy1WpgxwNeh1W9i0XtNcEs0trNhwxEcwNcU5epr6RuB6btusEiWwJBjiVJ62Uk+Xr8/Ykd8e499Q/VVtQ270eoar5MFtt5C2X3FhYU4lBSoLJ+LORjjQd3OmWVrJm2Sy5LkL8VxR9pPf5DGMD3aWom1tbe3SlxCkK9EZOFDB+0N6OWTEDjfodUPoGzaRmY5ys/c0bYSIJ2IMbqiwXGTRbWTNjuPtKivAhtfQsfSHODgj9xpzZ+3a2VXX8OWqHJWkQ3WpbOVqaQs5WEk4HX09u4wDrXa97TNUdc1MfiNyoqVNFMphau3iqWFIUlCuQvB449unK/c22q2LPagLpmlTCkuK6JOMpJPHh8d+BjTyKhILEcfyKivMu+SFe1atvOUgiY/PKfjrn3XlN51cluxtJVZHKKaOtpxtxYT1DyICQTyT3GRxnVdtueTu1jdNlLbbaWK+MyEo4AS+3k/Mkn56Xd3BSSUBMyxq3gXUOuJLckJX04wMBvjsNH7s3HVyqe0SxKhuyZYDaGojLiEpHipcJJWlIAAQBgck8DQYASQ2uvmlZa65tJcsnJSAGg6ErM9zjs6/df/9k=" alt="" />
                                         <div>
                                             <div class="name">
-                                                <div>III-50</div>
-                                                <div class="unlocked">13 Jul 2025</div>
+                                                <div>Death From Above</div>
+                                                <div class="unlocked">13 Mar 2023</div>
                                             </div>
-                                            <div class="description">Reach prestige Level III-50 with any character.</div>
+                                            <div class="description">Complete On Top Of The World.</div>
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAABAQADAAAAAAAAAAAAAAAABgcEBQj/xAAoEAACAgECBQQDAQEAAAAAAAABAgMEEQUGAAcSITETQVFhFCJxkTL/xAAWAQEBAQAAAAAAAAAAAAAAAAABAwD/xAAZEQADAQEBAAAAAAAAAAAAAAAAAQIREjH/2gAMAwEAAhEDEQA/AIDsDag3VblrCaVJgyKiooOerOSc+AAM/wAzw6k5N6fO0g0jdtG76cRldWRomUD3OQR0/ef842nJPVtNG2bqXFgptUi6GtrAskrKz5aMA4Ds4/UL4ALk+3CBN72K9mX8WKKvRL9caxQxRTxHBAYSIo/bue2CpyQcjiVVjKxHS8AFjk3ZGkPfo6nU1BEOHjpyrI8YAyWI8lfsA48n54G7u21X0OpXlhtvO0r9OGUDtjyMHizwazpNy3Fa1WtapXY2DflaSyRlznuSjdlP2hH89+A/O5qzyV5aTCSpYf1YJugK0g7/APajsrg5DAdsjPvkk22xqEl4HOXdK5ZFxqdazY6MELFE8gXt3PYfHFp0blNujUq9Sax+Hp0Vkjtbm6ZIwRkFkAzk/Gc+M44hmzd76vtKtbj0jUb9QWCCy15zGDj5+/vhOvOjX5ILUFtKs8dmIwzNJVid3UjByxXOffOfPfgqNrcGbyUky2bq2lHt7btjb2lQwa1qE/p3Dd9aCKWNS2CAjHqKYRsEEjLHPHPvM6u9IUqth4zYGZGjjcOI8gfqSO3V4yAT/vGQeZ2p/gVaZleWtVQQwpPBDKI4/gdSnglrWqxX4I0jiZCjZ748Y9scZS+k8GqXLWn/2Q==" alt="" />
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQABAAMBAQAAAAAAAAAAAAAABQMEBgEC/8QALRAAAgICAQMCAwgDAAAAAAAAAQIDBAURBgASMRMhFEFRIiQlNDZScYF0kbT/xAAZAQABBQAAAAAAAAAAAAAAAAABAAMEBgf/xAAmEQABAwIEBgMAAAAAAAAAAAABAgMRAAQSITFREyIyYXGRQbHB/9oADAMBAAIRAxEAPwAYDF4nAYiexiIshZvJLM7zTyIECyMgVQhH7d7O/PTfDMXU5ZLbiocexML11Rm9a1Z0e5wo1pj9es5yH9N8W/xZv+iTqXg3L7HErFuWtVisfEKisJGI12uGGtfx1XEqSFgK08dq3S4YedtlrtyeJJjmIGSyN40rQc1xVPiU9WO7x/Ez/EK7KYrNka7HKne3+o6C/CstgcvNXxEWPs0Y45keGeRw4aRUKsHJ/dvY1465zvllvlM9Nr1WGvJWVwBGSe4O3f8AP+eosFG8XHuUrIjI3wkJ0w0fzEfRUpJWQnTx2oW7Lzds2u4J4kieYkdYG8aVYyD1lwXFlu15J4mqzAiN+xx94k8HRH+x05w/juNtY7P07bU7LqKcsVuHbtEjnbhSdDv7fb3GgevPF87hosHjork9SO1VVoitqB29vVZwyMqN5D6Pjx8+nMfybjWNq34qD4aJrhUyN2WdbUk+PT8e/ga6cQlBIKiNPyKg3jtyEraabXOKQRMdeKfW2vzWU5ni7MeRylrGVymGrvFJHI4XuH2ECgnyT7jY8b6t5bk9nlsHKclbjjicY+tCFTwAs8ez/ZJP99Ly8gwllAtzI4uYGVJZFMdkK/brQ0I/HsOj+WcjxdrD5RYLVOWzbAjSKpDIiqPVWQkl1UAAIBoeSfA6CgBJCstvdJlTqy0hxk4kkAKg5CUzO84czl91/9k=" alt="" />
                                         <div>
                                             <div class="name">
-                                                <div>Outrun Evil</div>
-                                                <div class="unlocked">13 May 2025</div>
+                                                <div>Dune Raider</div>
+                                                <div class="unlocked">13 Mar 2023</div>
                                             </div>
-                                            <div class="description">In a public match, crawl your way out through the hatch.</div>
+                                            <div class="description">Reveal all undiscovered areas in Dubai.</div>
                                         </div>
                                     </div>
                                     <div class="achievement">
                                         <div>
-                                            <div class="description ellipsis">+57 others...</div>
+                                            <div class="description ellipsis">+12 others...</div>
                                         </div>
                                     </div>
                                 </div>
@@ -653,7 +653,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 22 Jul 2025, 16:41:23 (timezone Pacific/Auckland) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 22 Jul 2025, 20:32:59 (timezone Pacific/Auckland) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
